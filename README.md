@@ -6,7 +6,7 @@
 |20-02-2017 | Anthrax | Trix | Antwerpen (BE) | Yes!
 |04-03-2017 | Kreator | Grugahalle | Essen (DE) | Yes!
 |22-03-2017 | Lindsey Stirling | Stadschouwburg | Antwerpen (BE) | Yes!
-|25-03-2017 | Tankard | Oilsjt omploft | Aalst (BE) | Yes!
+|25-03-2017 | Tankard | Oilsjt omploft | Aalst (BE) | Not yet :(
 |22-04-2017 | Iron Maiden | Sportpaleis | Antwerpen (BE) | Yes!
 |16-18 jun | Graspop | Graspop | Antwerpen (BE) | Not yet :(
 |16-06-2017 | (Exodus/Testament/..) | Dynamo | Eindhoven (NL) | Yes!
