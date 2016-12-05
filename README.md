@@ -1,5 +1,5 @@
 # festivals/concerts
----
+
 | When? | What? | Where? | City? | Tix
 |---|---|---|---| --- |
 |03-02-2017 | Metallica | Royal Arena | Kopenhagen (DK) | Yes!
