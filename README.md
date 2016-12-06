@@ -8,7 +8,7 @@ Planned festivals + concerts since Wacken 2016
 |13-08-2016 | Kreator/Exodus | Into the grave | Leeuwarden (NL) | Yes!
 |09-09-2016 | Doro/TWOS | Olensfest | Olen (BE) | Yes!
 |15-10-2016 | Destruction/Enforcer | Muziekodroom | Hasselt (BE) | Yes!
-|19-11-2016 | The sound of revolution | | Eindhoven (NL) | Yes!
+|19-11-2016 | The sound of revolution | Klokgebouw | Eindhoven (NL) | Yes!
 |03-02-2017 | Metallica | Royal Arena | Kopenhagen (DK) | Yes!
 |20-02-2017 | Anthrax | Trix | Antwerpen (BE) | Yes!
 |04-03-2017 | Kreator | Grugahalle | Essen (DE) | Yes!
