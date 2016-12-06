@@ -15,7 +15,7 @@ Planned festivals + concerts since Wacken 2016
 |22-03-2017 | Lindsey Stirling | Stadschouwburg | Antwerpen (BE) | Yes!
 |25-03-2017 | Tankard | Oilsjt omploft | Aalst (BE) | Not yet :(
 |22-04-2017 | Iron Maiden | Sportpaleis | Antwerpen (BE) | Yes!
-|16-18 jun | Graspop | Graspop | Antwerpen (BE) | Not yet :(
+|16-18 jun | Graspop | Graspop | Dessel (BE) | Not yet :(
 |24-06-2017 | D.R.I. | Jera on air fest | Ysselsteyn (NL) | Not yet :(
 |16-07-2017 | (Exodus/Testament/..) | Dynamo | Eindhoven (NL) | Yes!
 |03-05 aug | Wacken Open Air | Wacken Open Air | Wacken (DE) | Yes!
