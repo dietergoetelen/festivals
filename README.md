@@ -4,7 +4,7 @@ Planned festivals + concerts since Wacken 2016
 
 | When? | What? | Where? | City? | Tix
 |---|---|---|---| --- |
-|04-06 aug | Wacken | Wacken | Wacken (DE) | Yes!
+|04-06 aug | Wacken Open Air | Wacken Open Air | Wacken (DE) | Yes!
 |13-08-2016 | Kreator/Exodus | Into the grave | Leeuwarden (NL) | Yes!
 |09-09-2016 | Doro/TWOS | Olensfest | Olen (BE) | Yes!
 |15-10-2016 | Destruction/Enforcer | Muziekodroom | Hasselt (BE) | Yes!
@@ -18,5 +18,5 @@ Planned festivals + concerts since Wacken 2016
 |16-18 jun | Graspop | Graspop | Antwerpen (BE) | Not yet :(
 |24-06-2017 | D.R.I. | Jera on air fest | Ysselsteyn (NL) | Not yet :(
 |16-07-2017 | (Exodus/Testament/..) | Dynamo | Eindhoven (NL) | Yes!
-|03-05 aug | Wacken | Wacken | Wacken (DE) | Yes!
+|03-05 aug | Wacken Open Air | Wacken Open Air | Wacken (DE) | Yes!
 
