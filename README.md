@@ -19,4 +19,5 @@ Planned festivals + concerts since Wacken 2016
 |24-06-2017 | D.R.I. | Jera on air fest | Ysselsteyn (NL) | Not yet :(
 |16-07-2017 | (Exodus/Testament/..) | Dynamo | Eindhoven (NL) | Yes!
 |03-05 aug | Wacken Open Air | Wacken Open Air | Wacken (DE) | Yes!
+|11-12 aug | (Overkill/Sodom/..) | Into the grave | Leeuwarden (NL) | Not yet :(
 
